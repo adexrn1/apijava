@@ -1,8 +1,8 @@
 # Ironhackbank
 Api Java
 ## Description
-A REST API for managing different types of bank accounts, including checking and savings accounts.
 
+Bank Account Management REST API: This API handles various bank accounts, such as checking and savings.
 ## Technologies Used
 - Java
 - Spring Boot
